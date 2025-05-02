@@ -72,7 +72,7 @@ This will create a `dist` directory with the compiled application.
 
 ```bash
 # Run TypeScript type checking
-npm run typecheck
+npm run verify
 ```
 
 ## Future Enhancements
