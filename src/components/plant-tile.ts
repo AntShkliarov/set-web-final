@@ -112,7 +112,7 @@ export class PlantTile extends LitElement {
   @state()
   private imageError = false;
 
-  private placeholderImagePath = '/src/assets/images/plant-placeholder.svg';
+  private placeholderImagePath = '/src/assets/images/plant-placeholder.png';
 
   private toggleFlip() {
     this.flipped = !this.flipped;
